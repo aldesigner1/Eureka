@@ -4514,7 +4514,8 @@ figcaption {
     align-items: center;
     border-radius: 10px;
     background-color: transparent;
-    color: #634de3;
+    /* color: #634de3; */
+    color:#F50E76 !important;
     font-weight: 500;
 }
 .process-number {
@@ -4874,7 +4875,7 @@ figcaption {
     overflow: hidden;
     height: 550px;
     padding: 3rem;
-    background-color: #f05423;
+    background-color: #048ADB;
 }
 @media screen and (max-width: 991px) {
     h1 {
