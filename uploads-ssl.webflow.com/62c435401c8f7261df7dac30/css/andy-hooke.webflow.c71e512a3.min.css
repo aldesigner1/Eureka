@@ -102,6 +102,20 @@ textarea {
     font: inherit;
     margin: 0;
 }
+.tech{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px auto 50px;
+  margin-bottom: 100px;
+}
+
+/* .tech img{
+  max-height: 130px;
+} */
 button {
     overflow: visible;
 }
