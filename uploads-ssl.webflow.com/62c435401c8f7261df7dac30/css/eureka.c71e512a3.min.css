@@ -109,8 +109,9 @@ textarea {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding: 30px auto 50px;
+  /* padding: 30px auto 50px; */
   margin-bottom: 100px;
+  padding-left: 0px !important; 
 }
 
 .tech li{
